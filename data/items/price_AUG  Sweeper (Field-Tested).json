@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580692563",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDum25V4dB8xLDHrI2tjgbm-kRoa2HycofEcQc8ZgvZ-gDvwby705S17pXLmyBruCQ8pSGKnwGWryQ",
+                "instanceid": "302028390",
+                "market_hash_name": "AUG | Sweeper (Field-Tested)",
+                "market_name": "AUG | Sweeper (Field-Tested)",
+                "name": "AUG | Sweeper (Field-Tested)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade Rifle"
+            },
+            "hash_name": "AUG | Sweeper (Field-Tested)",
+            "name": "AUG | Sweeper (Field-Tested)",
+            "sale_price_text": "$0.03",
+            "sell_listings": 16821,
+            "sell_price": 4,
+            "sell_price_text": "$0.04"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "AUG  Sweeper (Field-Tested)",
+        "search_descriptions": false,
+        "total_count": 2
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 2
+}

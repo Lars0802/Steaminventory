@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3608083923",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE3EU-G_0svsRFh2ahdft66xLhVl18zfdD8Mv9ruzNiNxKOkMeqCk2kJ6Zclj72RrIj33AHh_kQ_YG76JdWRJ1BvY0aQpAZHNU_GyA",
+                "instanceid": "519977179",
+                "market_hash_name": "Sticker | Shattered Web",
+                "market_name": "Sticker | Shattered Web",
+                "name": "Sticker | Shattered Web",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "High Grade Sticker"
+            },
+            "hash_name": "Sticker | Shattered Web",
+            "name": "Sticker | Shattered Web",
+            "sale_price_text": "$0.11",
+            "sell_listings": 9074,
+            "sell_price": 12,
+            "sell_price_text": "$0.12"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sticker  Shattered Web",
+        "search_descriptions": false,
+        "total_count": 1
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 1
+}

@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580696875",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh94863moeOqPrxN7LEmyUJ6pJ33L-Xpd_03gHlrURvN270LNORJAM2aVjW-gC3yby905K0vpmb1zI97c4iLXaH",
+                "instanceid": "480085569",
+                "market_hash_name": "MP9 | Orange Peel (Field-Tested)",
+                "market_name": "MP9 | Orange Peel (Field-Tested)",
+                "name": "MP9 | Orange Peel (Field-Tested)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Industrial Grade SMG"
+            },
+            "hash_name": "MP9 | Orange Peel (Field-Tested)",
+            "name": "MP9 | Orange Peel (Field-Tested)",
+            "sale_price_text": "$0.10",
+            "sell_listings": 1792,
+            "sell_price": 11,
+            "sell_price_text": "$0.11"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "MP9  Orange Peel (Field-Tested)",
+        "search_descriptions": false,
+        "total_count": 22
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 22
+}

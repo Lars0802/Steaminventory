@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "469440539",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3di9H6dKJmImMn-O6YePSwm4GupIk3evEo9ii3wG3-kJtYjigJNOScwI8MFnU_QLvkrzm1oj84srJ8w6n6Q",
+                "instanceid": "302028390",
+                "market_hash_name": "G3SG1 | Green Apple (Minimal Wear)",
+                "market_name": "G3SG1 | Green Apple (Minimal Wear)",
+                "name": "G3SG1 | Green Apple (Minimal Wear)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Industrial Grade Sniper Rifle"
+            },
+            "hash_name": "G3SG1 | Green Apple (Minimal Wear)",
+            "name": "G3SG1 | Green Apple (Minimal Wear)",
+            "sale_price_text": "$0.18",
+            "sell_listings": 1599,
+            "sell_price": 19,
+            "sell_price_text": "$0.19"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "G3SG1  Green Apple (Minimal Wear)",
+        "search_descriptions": false,
+        "total_count": 4
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 4
+}

@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580638413",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjlG_N2iq5WZlcj5Nr_Yg2YfscQo3r3H9Nuki1HsrkdlMGuncoCcJAc9ZF_Q_1Dqk-zrhJDqvZ7Jymwj5HeAXIDD2Q",
+                "instanceid": "188530139",
+                "market_hash_name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+                "market_name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+                "name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+                "name_color": "FFD700",
+                "tradable": 1,
+                "type": "Souvenir Industrial Grade Pistol"
+            },
+            "hash_name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+            "name": "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)",
+            "sale_price_text": "$2.23",
+            "sell_listings": 218,
+            "sell_price": 233,
+            "sell_price_text": "$2.33"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Souvenir Desert Eagle  Urban DDPAT (Field-Tested)",
+        "search_descriptions": false,
+        "total_count": 7
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 7
+}

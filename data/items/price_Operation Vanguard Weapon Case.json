@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "638240019",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g",
+                "instanceid": "0",
+                "market_hash_name": "Operation Vanguard Weapon Case",
+                "market_name": "Operation Vanguard Weapon Case",
+                "name": "Operation Vanguard Weapon Case",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Base Grade Container"
+            },
+            "hash_name": "Operation Vanguard Weapon Case",
+            "name": "Operation Vanguard Weapon Case",
+            "sale_price_text": "$0.74",
+            "sell_listings": 12430,
+            "sell_price": 77,
+            "sell_price_text": "$0.77"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Operation Vanguard Weapon Case",
+        "search_descriptions": false,
+        "total_count": 4
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 4
+}

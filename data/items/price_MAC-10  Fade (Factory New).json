@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "992131749",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO6nYeDg7miarnVwTtTuMdz27uY9Nn23gPl8kdpY2DzcoOTcQQ8MlvXqFfskrjtm9bi6ymO17SD",
+                "instanceid": "519977179",
+                "market_hash_name": "MAC-10 | Fade (Factory New)",
+                "market_name": "MAC-10 | Fade (Factory New)",
+                "name": "MAC-10 | Fade (Factory New)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Mil-Spec Grade SMG"
+            },
+            "hash_name": "MAC-10 | Fade (Factory New)",
+            "name": "MAC-10 | Fade (Factory New)",
+            "sale_price_text": "$12.19",
+            "sell_listings": 166,
+            "sell_price": 1274,
+            "sell_price_text": "$12.74"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "MAC-10  Fade (Factory New)",
+        "search_descriptions": false,
+        "total_count": 149
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 149
+}

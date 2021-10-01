@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3608083957",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzhM6ci5q5SKmcj4OrzZgiVXsMQnj72ZoYqijVa3_hc-NWilIYTAclNoaArQqVXqxr3qhZO47Z2d1zI97UyQ5JD8",
+                "instanceid": "519977179",
+                "market_hash_name": "Negev | Boroque Sand (Minimal Wear)",
+                "market_name": "Negev | Boroque Sand (Minimal Wear)",
+                "name": "Negev | Boroque Sand (Minimal Wear)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade Machinegun"
+            },
+            "hash_name": "Negev | Boroque Sand (Minimal Wear)",
+            "name": "Negev | Boroque Sand (Minimal Wear)",
+            "sale_price_text": "$0.44",
+            "sell_listings": 190,
+            "sell_price": 46,
+            "sell_price_text": "$0.46"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Negev  Boroque Sand (Minimal Wear)",
+        "search_descriptions": false,
+        "total_count": 1
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 1
+}

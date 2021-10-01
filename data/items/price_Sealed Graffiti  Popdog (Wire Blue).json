@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "1989284170",
+                "commodity": 1,
+                "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0se2dGHvwJjWdfCXYSQ8wGOEPPWrf-jWh4LydQD7LQ74kEQ8Ne6ZQ-mccOs6AOEMjlNlc7Wa3m0tvEwMkZsxWfBbmnHYSZL93rfOAdWE",
+                "instanceid": "302028390",
+                "market_hash_name": "Sealed Graffiti | Popdog (Wire Blue)",
+                "market_name": "Sealed Graffiti | Popdog (Wire Blue)",
+                "name": "Sealed Graffiti | Popdog (Wire Blue)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Base Grade Graffiti"
+            },
+            "hash_name": "Sealed Graffiti | Popdog (Wire Blue)",
+            "name": "Sealed Graffiti | Popdog (Wire Blue)",
+            "sale_price_text": "$0.02",
+            "sell_listings": 4637,
+            "sell_price": 3,
+            "sell_price_text": "$0.03"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sealed Graffiti  Popdog (Wire Blue)",
+        "search_descriptions": false,
+        "total_count": 87
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 87
+}

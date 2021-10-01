@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "310778013",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3dThR6c6iq4iOluHtfbjTx28HusMnjr7A8Y_33A3g8hc5Nzr6I4LGew8_NVCEqFe9xeztgZOi_MOeLAxHBjE",
+                "instanceid": "302028390",
+                "market_hash_name": "G3SG1 | Desert Storm (Battle-Scarred)",
+                "market_name": "G3SG1 | Desert Storm (Battle-Scarred)",
+                "name": "G3SG1 | Desert Storm (Battle-Scarred)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade Sniper Rifle"
+            },
+            "hash_name": "G3SG1 | Desert Storm (Battle-Scarred)",
+            "name": "G3SG1 | Desert Storm (Battle-Scarred)",
+            "sale_price_text": "$0.03",
+            "sell_listings": 8063,
+            "sell_price": 4,
+            "sell_price_text": "$0.04"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "G3SG1  Desert Storm (Battle-Scarred)",
+        "search_descriptions": false,
+        "total_count": 15
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 15
+}

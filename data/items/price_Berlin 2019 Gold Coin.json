@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3485825349",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtcv7S0IgJf1PzEdXMQvYvmkdTdx_OtN7qDxT5TuMcm2rCZ9NWhjQ3m_UdlazrwJNWdcw9tfxiOrVflygOd",
+                "instanceid": "188530139",
+                "market_hash_name": "Sticker | kinqie (Gold) | Berlin 2019",
+                "market_name": "Sticker | kinqie (Gold) | Berlin 2019",
+                "name": "Sticker | kinqie (Gold) | Berlin 2019",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Extraordinary Sticker"
+            },
+            "hash_name": "Sticker | kinqie (Gold) | Berlin 2019",
+            "name": "Sticker | kinqie (Gold) | Berlin 2019",
+            "sale_price_text": "$29.51",
+            "sell_listings": 13,
+            "sell_price": 3085,
+            "sell_price_text": "$30.85"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Berlin 2019 Gold Coin",
+        "search_descriptions": false,
+        "total_count": 120
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 120
+}

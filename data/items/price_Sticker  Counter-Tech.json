@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580698103",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE3EU-G_0svsRFh2agdYo7SxLhVfx_bLeXMStIrjkdeIw6Hwa-6AwD8JsZVz3b_E94nzjQbj_kM9ZTv0ctLBdA86fxiOrf5vMKh4",
+                "instanceid": "519977179",
+                "market_hash_name": "Sticker | Counter-Tech",
+                "market_name": "Sticker | Counter-Tech",
+                "name": "Sticker | Counter-Tech",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "High Grade Sticker"
+            },
+            "hash_name": "Sticker | Counter-Tech",
+            "name": "Sticker | Counter-Tech",
+            "sale_price_text": "$0.12",
+            "sell_listings": 13545,
+            "sell_price": 13,
+            "sell_price_text": "$0.13"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sticker  Counter-Tech",
+        "search_descriptions": false,
+        "total_count": 15
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 15
+}

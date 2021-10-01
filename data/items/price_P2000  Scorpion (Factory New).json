@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4449987467",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5nqeZo9-m21Xh8kY-MG-gIoeWe1c6NFDU_VK6lOi6156078nKyiZg7yEm-z-DyIv3UiOT",
+                "instanceid": "519977179",
+                "market_hash_name": "P2000 | Scorpion (Factory New)",
+                "market_name": "P2000 | Scorpion (Factory New)",
+                "name": "P2000 | Scorpion (Factory New)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Restricted Pistol"
+            },
+            "hash_name": "P2000 | Scorpion (Factory New)",
+            "name": "P2000 | Scorpion (Factory New)",
+            "sale_price_text": "$2.25",
+            "sell_listings": 185,
+            "sell_price": 235,
+            "sell_price_text": "$2.35"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "P2000  Scorpion (Factory New)",
+        "search_descriptions": false,
+        "total_count": 182
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 182
+}

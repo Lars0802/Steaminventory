@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "1989299961",
+                "commodity": 1,
+                "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeOZI2f_bSXNKW-IGggxH7FbYWHY_jGj4-6WRjHAR-4rFQ4HdatX-mRJb8DfbRs6hYda5XW2kAJ-ERonYMhTfBuy2ngKbL50y3ARdDMbh39v",
+                "instanceid": "302028390",
+                "market_hash_name": "Sealed Graffiti | Sheriff (Shark White)",
+                "market_name": "Sealed Graffiti | Sheriff (Shark White)",
+                "name": "Sealed Graffiti | Sheriff (Shark White)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Base Grade Graffiti"
+            },
+            "hash_name": "Sealed Graffiti | Sheriff (Shark White)",
+            "name": "Sealed Graffiti | Sheriff (Shark White)",
+            "sale_price_text": "$0.02",
+            "sell_listings": 3442,
+            "sell_price": 3,
+            "sell_price_text": "$0.03"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sealed Graffiti  Sheriff (Shark White)",
+        "search_descriptions": false,
+        "total_count": 87
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 87
+}

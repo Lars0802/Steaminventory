@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580692552",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5YsojLiXo96gjVbt-BY5Yjv0LIHAeg86M1jYq1G6wbu8g5K-tZqfn3NlpGB8spTFqtYC",
+                "instanceid": "302028390",
+                "market_hash_name": "Dual Berettas | Colony (Field-Tested)",
+                "market_name": "Dual Berettas | Colony (Field-Tested)",
+                "name": "Dual Berettas | Colony (Field-Tested)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade Pistol"
+            },
+            "hash_name": "Dual Berettas | Colony (Field-Tested)",
+            "name": "Dual Berettas | Colony (Field-Tested)",
+            "sale_price_text": "$0.04",
+            "sell_listings": 16907,
+            "sell_price": 5,
+            "sell_price_text": "$0.05"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Dual Berettas  Colony (Field-Tested)",
+        "search_descriptions": false,
+        "total_count": 60
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 60
+}

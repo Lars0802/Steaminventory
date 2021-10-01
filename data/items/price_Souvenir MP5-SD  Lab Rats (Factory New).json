@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3106097319",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3fTxA_t2iq42bwsj4OrzZgiVT6sF10-uW8N2h3AHi-kttY2-hLYGVewQ4YF_Y_Qe2lebvhcC7v5TI1zI97SL4IQbf",
+                "instanceid": "338584038",
+                "market_hash_name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+                "market_name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+                "name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+                "name_color": "FFD700",
+                "tradable": 1,
+                "type": "Souvenir Restricted SMG"
+            },
+            "hash_name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+            "name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+            "sale_price_text": "$0.19",
+            "sell_listings": 2281,
+            "sell_price": 20,
+            "sell_price_text": "$0.20"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Souvenir MP5-SD  Lab Rats (Factory New)",
+        "search_descriptions": false,
+        "total_count": 1
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 1
+}

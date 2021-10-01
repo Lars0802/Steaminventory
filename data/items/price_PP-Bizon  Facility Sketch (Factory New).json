@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3035572347",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lxLzArY733QPl-hU5MGj0IY6ddgJoaFqCrwDsyb_u0MXuvJjNn3ti6HQ8pSGKfPrCgp8",
+                "instanceid": "302028390",
+                "market_hash_name": "PP-Bizon | Facility Sketch (Factory New)",
+                "market_name": "PP-Bizon | Facility Sketch (Factory New)",
+                "name": "PP-Bizon | Facility Sketch (Factory New)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade SMG"
+            },
+            "hash_name": "PP-Bizon | Facility Sketch (Factory New)",
+            "name": "PP-Bizon | Facility Sketch (Factory New)",
+            "sale_price_text": "$0.06",
+            "sell_listings": 2961,
+            "sell_price": 7,
+            "sell_price_text": "$0.07"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "PP-Bizon  Facility Sketch (Factory New)",
+        "search_descriptions": false,
+        "total_count": 2
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 2
+}

@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3608083945",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE3EU-G_0svsRFh2agNYur6aPAJinfacIGlAtI_lkNiPlfSlNrrUl28GuMNy2rmVp9j2jlXi-UM_N2rxJ9SLMlhp9UY7fyI",
+                "instanceid": "519977179",
+                "market_hash_name": "Sticker | Gold Web",
+                "market_name": "Sticker | Gold Web",
+                "name": "Sticker | Gold Web",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "High Grade Sticker"
+            },
+            "hash_name": "Sticker | Gold Web",
+            "name": "Sticker | Gold Web",
+            "sale_price_text": "$0.09",
+            "sell_listings": 14070,
+            "sell_price": 10,
+            "sell_price_text": "$0.10"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sticker  Gold Web",
+        "search_descriptions": false,
+        "total_count": 2
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 2
+}

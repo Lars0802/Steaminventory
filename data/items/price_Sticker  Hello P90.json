@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4141789810",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPSU_fTujix5aDbE9xJgteuvSnc1MygaqRKTsRvo-3kIWJwqCmML6GwG0E7pIl0rHD99Wmig3h8kM-fSmtc3aCHNQ5",
+                "instanceid": "519977179",
+                "market_hash_name": "Sticker | Hello P90",
+                "market_name": "Sticker | Hello P90",
+                "name": "Sticker | Hello P90",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "High Grade Sticker"
+            },
+            "hash_name": "Sticker | Hello P90",
+            "name": "Sticker | Hello P90",
+            "sale_price_text": "$0.05",
+            "sell_listings": 2329,
+            "sell_price": 6,
+            "sell_price_text": "$0.06"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sticker  Hello P90",
+        "search_descriptions": false,
+        "total_count": 2
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 2
+}

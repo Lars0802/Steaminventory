@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "3485691692",
+                "commodity": 1,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHFN1Mw0Z5un9c1My1aTJI2lDtIm0wNnYzqT2ZeyBxW8J7JYl3biXrN722Few810sPT7l-GphUA",
+                "instanceid": "143865972",
+                "market_hash_name": "Sticker | Natus Vincere | Berlin 2019",
+                "market_name": "Sticker | Natus Vincere | Berlin 2019",
+                "name": "Sticker | Natus Vincere | Berlin 2019",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "High Grade Sticker"
+            },
+            "hash_name": "Sticker | Natus Vincere | Berlin 2019",
+            "name": "Sticker | Natus Vincere | Berlin 2019",
+            "sale_price_text": "$0.68",
+            "sell_listings": 2378,
+            "sell_price": 71,
+            "sell_price_text": "$0.71"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "Sticker  Natus Vincere  Berlin 2019",
+        "search_descriptions": false,
+        "total_count": 6
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 6
+}

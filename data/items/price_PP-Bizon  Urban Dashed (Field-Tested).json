@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580695397",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-SPodjx2ALg-kppMG7xIYGUd1I8MlqG_VS7kLvo18Tq7szBzXJnuCVzsGGdwULIif0sOA",
+                "instanceid": "302028390",
+                "market_hash_name": "PP-Bizon | Urban Dashed (Field-Tested)",
+                "market_name": "PP-Bizon | Urban Dashed (Field-Tested)",
+                "name": "PP-Bizon | Urban Dashed (Field-Tested)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade SMG"
+            },
+            "hash_name": "PP-Bizon | Urban Dashed (Field-Tested)",
+            "name": "PP-Bizon | Urban Dashed (Field-Tested)",
+            "sale_price_text": "$0.04",
+            "sell_listings": 18231,
+            "sell_price": 5,
+            "sell_price_text": "$0.05"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "PP-Bizon  Urban Dashed (Field-Tested)",
+        "search_descriptions": false,
+        "total_count": 12
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 12
+}

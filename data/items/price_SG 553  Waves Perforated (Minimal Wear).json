@@ -1,0 +1,40 @@
+{
+    "pagesize": 1,
+    "results": [
+        {
+            "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg",
+            "app_name": "Counter-Strike: Global Offensive",
+            "asset_description": {
+                "appid": 730,
+                "background_color": "",
+                "classid": "4580696730",
+                "commodity": 0,
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3ZTxS6eOym5SYqOD1Jb7CqWdY781lxL-Tp9n331Wx-0NvMDylddfHdVJrMgnXrwC7wOnqgpC1tZzJzHcx6HQ8pSGKCgprHXY",
+                "instanceid": "302028390",
+                "market_hash_name": "SG 553 | Waves Perforated (Minimal Wear)",
+                "market_name": "SG 553 | Waves Perforated (Minimal Wear)",
+                "name": "SG 553 | Waves Perforated (Minimal Wear)",
+                "name_color": "D2D2D2",
+                "tradable": 1,
+                "type": "Consumer Grade Rifle"
+            },
+            "hash_name": "SG 553 | Waves Perforated (Minimal Wear)",
+            "name": "SG 553 | Waves Perforated (Minimal Wear)",
+            "sale_price_text": "$0.03",
+            "sell_listings": 6807,
+            "sell_price": 4,
+            "sell_price_text": "$0.04"
+        }
+    ],
+    "searchdata": {
+        "class_prefix": "market",
+        "pagesize": 1,
+        "prefix": "searchResults",
+        "query": "SG 553  Waves Perforated (Minimal Wear)",
+        "search_descriptions": false,
+        "total_count": 4
+    },
+    "start": 0,
+    "success": true,
+    "total_count": 4
+}
