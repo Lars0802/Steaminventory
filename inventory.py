@@ -1,19 +1,21 @@
 #!/usr/bin/python
 __author__ = 'Lars Thomsen'
-__version__ = '0.0.1'
+__version__ = '1.0.0'
 __status__ = 'Development'
 __date__ = '2021/09/30'
-# last modified: 2021/10/01
+# last modified: 2021/10/04
 
 import os
 import io
 import time
 import datetime
 import csv
+import glob
 
 import requests
 import json
 import pandas as pd
+from pandas.io.parsers import read_csv
 
 # returns items in given inventory
 def getInventory(id):
@@ -21,8 +23,8 @@ def getInventory(id):
     print(id)
 
     # paths
-    path_csv = 'Steaminventory/data/inv/'+id+'.csv'
-    path_json = 'Steaminventory/data/inv/'+id+'.json'
+    path_csv = 'Steaminventory/data/temp/'+id+'.csv'
+    path_json = 'Steaminventory/data/temp/'+id+'.json'
     url_id = 'https://steamcommunity.com/id/{}/inventory/json/730/2'
     url_profiles = 'https://steamcommunity.com/profiles/{}/inventory/json/730/2'
 
@@ -89,7 +91,7 @@ def getCount(classid, data):
 # gets current market price of desired item
 def getPrice(item):
     print(item)
-    path = 'Steaminventory/data/items/price_'+item+'.json'
+    path = 'Steaminventory/data/temp/price_'+item+'.json'
     url = 'https://steamcommunity.com/market/search/render/?'
     params = {
         'search_descriptions' : '0',
@@ -121,7 +123,7 @@ def getPrice(item):
         print(response.status_code)
 
     try:
-        return data['results'][0]['sell_price_text']
+        return data['results'][0]['sell_price']
     except:
         return 'No price found'
 
@@ -141,24 +143,47 @@ def inventory():
     except Exception as e:
         print(e)
 
+def createDirectory():
+    try:
+        os.makedirs('Steaminventory/data/temp')
+    except:
+        pass
+    if os.path.isfile('Steaminventory/data/prices.csv'):
+        os.remove('Steaminventory/data/prices.csv')
+
 def main():
-    if os.path.isfile('Steaminventory/data/prices.txt'):
-        os.remove('Steaminventory/data/prices.txt')
+    createDirectory()
+
+    prices = open('Steaminventory/data/prices.csv', 'a', encoding="utf-8")
+    prices.write('item,price,sum' + '\n')
 
     with open('Steaminventory/data/accounts.txt', 'r') as accounts:
         for account in accounts:
             getInventory(account.strip())
-            df = pd.read_csv('Steaminventory/data/inv/'+account.strip()+'.csv')
+            df = pd.read_csv('Steaminventory/data/temp/'+account.strip()+'.csv')
 
             for x in df.index:
                 row = df.iloc[[x]]
+                count = row.to_string(columns=['amount'], index_names=None, header=False, index=False)
                 items = row.to_string(columns=['item'], index_names=None, header=False, index=False)
-                prices = open('Steaminventory/data/prices.txt', 'a', encoding="utf-8")
-                prices.write(str(items) + ': ' + str(getPrice(items.replace('|', ''))) + '\n')
-                prices.close()
-            
-            
+                print(count)
+                price_item = getPrice(items.replace('|', '')) / 100
+                prices.write(str(items) + ', ' + str(price_item) + ', ' + '%.2f' %(float(price_item) * float(count)) + '\n')
 
-    
+    prices.close()
+    pr = read_csv('Steaminventory/data/prices.csv')
+    prices = open('Steaminventory/data/prices.csv', 'a', encoding="utf-8")
+    prices.write('Summe, ' + str('%.2f' %(pr['sum'].sum())))
+    prices.close()            
+
+    # remove used files
+    files = glob.glob('Steaminventory/data/temp/*')
+    for file in files:
+        try:
+            os.remove(file)
+        except Exception as e:
+            print(e)
+
+            
 if __name__ == '__main__':
     main()
