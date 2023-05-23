@@ -1,10 +1,4 @@
-#!/usr/bin/python
-__author__ = 'Lars Thomsen'
-__version__ = '1.0.0'
-__status__ = 'Development'
-__date__ = '2021/09/30'
-# last modified: 2021/10/04
-
+# does not work anymore
 import os
 import io
 import time
